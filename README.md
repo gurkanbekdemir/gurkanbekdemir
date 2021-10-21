@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gurkanbekdemir
-- 🌱 I’m currently learning react
 - 📫 How to reach me gurkanbekdemir@hotmail.com
 
 <!---
