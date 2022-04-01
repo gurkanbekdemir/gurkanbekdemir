@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T12:58:05.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.31" etag="y0BX6h6x0dXqcH_I0wH9" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T12:58:59.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.31" etag="PyyZGIV9c8pHCTZPF7mB" version="17.4.0" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1382" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
         <mxCell id="dqU5Dyr8MQ7zKgZwAmgb-59" value="İki standartlı bir yapıdır. Eski yapısı querPool&#39;a raw sql query göndermektedir.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=none;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="490" width="90" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="dqU5Dyr8MQ7zKgZwAmgb-60" value="&lt;br&gt;Scrape edilen veriler sabit formatlı dict yapısına kaydediliyor.&amp;nbsp;&lt;br&gt;Daha sonrasında createQuery fonksiyonu sayesinde dinamik olarak sql insert query oluşturluyor&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=none;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="dqU5Dyr8MQ7zKgZwAmgb-60" value="&lt;br&gt;Scrape edilen veriler sabit formatlı dict yapısına kaydediliyor.&amp;nbsp;&lt;br&gt;Daha sonrasında createQuery fonksiyonu sayesinde dinamik olarak sql insert querysi oluşturluyor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=none;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="490" width="110" height="240" as="geometry" />
         </mxCell>
         <mxCell id="dqU5Dyr8MQ7zKgZwAmgb-62" value="sqlite key - value şeklinde nested liste gönderiliyor." style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=none;strokeColor=default;fillColor=none;" vertex="1" parent="1">
